@@ -1,0 +1,75 @@
+﻿  Run-time-stats-utils.c
+c:\users\ohara\documents\eit\rtos\ohara_rtos-p2\p2-files\run-time-stats-utils.c(83): fatal error C1083: Cannot open include file: 'FreeRTOS.h': No such file or directory
+  main_full.c
+c:\users\ohara\documents\eit\rtos\ohara_rtos-p2\p2-files\main_full.c(115): fatal error C1083: Cannot open include file: 'FreeRTOS.h': No such file or directory
+  main_blinky.c
+c:\users\ohara\documents\eit\rtos\ohara_rtos-p2\p2-files\main_blinky.c(123): fatal error C1083: Cannot open include file: 'FreeRTOS.h': No such file or directory
+  tasks.c
+c1 : fatal error C1083: Cannot open source file: '..\..\Source\tasks.c': No such file or directory
+  queue.c
+c1 : fatal error C1083: Cannot open source file: '..\..\Source\queue.c': No such file or directory
+  port.c
+c1 : fatal error C1083: Cannot open source file: '..\..\Source\portable\MSVC-MingW\port.c': No such file or directory
+  list.c
+c1 : fatal error C1083: Cannot open source file: '..\..\Source\list.c': No such file or directory
+  main.c
+c:\users\ohara\documents\eit\rtos\ohara_rtos-p2\p2-files\main.c(75): fatal error C1083: Cannot open include file: 'FreeRTOS.h': No such file or directory
+  timerdemo.c
+c1 : fatal error C1083: Cannot open source file: '..\Common\Minimal\timerdemo.c': No such file or directory
+  TaskNotify.c
+c1 : fatal error C1083: Cannot open source file: '..\Common\Minimal\TaskNotify.c': No such file or directory
+  semtest.c
+c1 : fatal error C1083: Cannot open source file: '..\Common\Minimal\semtest.c': No such file or directory
+  recmutex.c
+c1 : fatal error C1083: Cannot open source file: '..\Common\Minimal\recmutex.c': No such file or directory
+  QueueSetPolling.c
+c1 : fatal error C1083: Cannot open source file: '..\Common\Minimal\QueueSetPolling.c': No such file or directory
+  QueueSet.c
+c1 : fatal error C1083: Cannot open source file: '..\Common\Minimal\QueueSet.c': No such file or directory
+  QueueOverwrite.c
+c1 : fatal error C1083: Cannot open source file: '..\Common\Minimal\QueueOverwrite.c': No such file or directory
+  QPeek.c
+c1 : fatal error C1083: Cannot open source file: '..\Common\Minimal\QPeek.c': No such file or directory
+  PollQ.c
+c1 : fatal error C1083: Cannot open source file: '..\Common\Minimal\PollQ.c': No such file or directory
+  IntSemTest.c
+c1 : fatal error C1083: Cannot open source file: '..\Common\Minimal\IntSemTest.c': No such file or directory
+  integer.c
+c1 : fatal error C1083: Cannot open source file: '..\Common\Minimal\integer.c': No such file or directory
+  GenQTest.c
+c1 : fatal error C1083: Cannot open source file: '..\Common\Minimal\GenQTest.c': No such file or directory
+  Generating Code...
+  Compiling...
+  flop.c
+c1 : fatal error C1083: Cannot open source file: '..\Common\Minimal\flop.c': No such file or directory
+  EventGroupsDemo.c
+c1 : fatal error C1083: Cannot open source file: '..\Common\Minimal\EventGroupsDemo.c': No such file or directory
+  dynamic.c
+c1 : fatal error C1083: Cannot open source file: '..\Common\Minimal\dynamic.c': No such file or directory
+  death.c
+c1 : fatal error C1083: Cannot open source file: '..\Common\Minimal\death.c': No such file or directory
+  countsem.c
+c1 : fatal error C1083: Cannot open source file: '..\Common\Minimal\countsem.c': No such file or directory
+  blocktim.c
+c1 : fatal error C1083: Cannot open source file: '..\Common\Minimal\blocktim.c': No such file or directory
+  BlockQ.c
+c1 : fatal error C1083: Cannot open source file: '..\Common\Minimal\BlockQ.c': No such file or directory
+  timers.c
+c1 : fatal error C1083: Cannot open source file: '..\..\Source\timers.c': No such file or directory
+  heap_5.c
+c1 : fatal error C1083: Cannot open source file: '..\..\Source\portable\MemMang\heap_5.c': No such file or directory
+  event_groups.c
+c1 : fatal error C1083: Cannot open source file: '..\..\Source\event_groups.c': No such file or directory
+  croutine.c
+c1 : fatal error C1083: Cannot open source file: '..\..\Source\croutine.c': No such file or directory
+  trcUser.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\FreeRTOS-Plus\Source\FreeRTOS-Plus-Trace\trcUser.c': No such file or directory
+  trcKernelPort.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\FreeRTOS-Plus\Source\FreeRTOS-Plus-Trace\trcKernelPort.c': No such file or directory
+  trcKernel.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\FreeRTOS-Plus\Source\FreeRTOS-Plus-Trace\trcKernel.c': No such file or directory
+  trcHardwarePort.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\FreeRTOS-Plus\Source\FreeRTOS-Plus-Trace\trcHardwarePort.c': No such file or directory
+  trcBase.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\FreeRTOS-Plus\Source\FreeRTOS-Plus-Trace\trcBase.c': No such file or directory
+  Generating Code...
